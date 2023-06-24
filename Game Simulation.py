@@ -287,6 +287,7 @@ def start():
 
     # Zombie attack function
     class PlayerZombie:
+        
         global hweak,hstrong,hspecial,hdefense
         global zweak,zstrong,zspecial,zdefense
         def __init__(self, env, name):
