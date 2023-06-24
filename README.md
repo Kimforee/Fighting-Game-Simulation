@@ -1,2 +1,3 @@
 # Fighting-Game-Simulation-Simpy
  A fighting game simulation using simpy, it just a game simulation where the human fight the zombie to save the world, remember its just a simple simulation with 3 types of attack weak,strong, and special  with a dodge(do nothing). Its made using simpy, tkinter, and pygame(for sound).
+![1](https://github.com/Kimforee/Fighting-Game-Simulation/assets/97099667/d9c700ab-5d2d-4093-8390-039cb4e5555c)![3](https://github.com/Kimforee/Fighting-Game-Simulation/assets/97099667/81fd35ad-7b70-4e7c-af4d-057d9177c804)![4](https://github.com/Kimforee/Fighting-Game-Simulation/assets/97099667/2eaaf6cc-86c5-4e09-9506-eb3f250f930a)
